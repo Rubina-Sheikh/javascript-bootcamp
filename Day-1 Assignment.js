@@ -42,7 +42,7 @@ person.city = 'San Francisco'
 //Print person Object
 console.log(person)
 
-//================================Assignment 2: Array of Object Operations===================
+//================================Assignment 3: Array of Object Operations===================
 
 
 //Create an empty array called Cars
